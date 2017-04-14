@@ -1,7 +1,9 @@
 SYSUTHESIS
 ==========
-   
-_SYSUTHESIS_ 是基于[PKUTHSS](http://www.ctan.org/pkg/pkuthss "about pkuthss")编写的中山大学论文模板，目前主要是修改了封面，
+
+## 注意: 项目因长时间停止维护, 已经迁移到[gitlab](https://gitlab.com/sysu-gitlab/latex-group/thesis)
+
+_SYSUTHESIS_ 是基于[PKUTHSS](http://www.ctan.org/pkg/pkuthss )"about pkuthss")编写的中山大学论文模板，目前主要是修改了封面，
 包括 _本科_ 和 _硕士_ 两个版本，分别在 _bachelor_ 和 _master_ 两个目录。
 
 ## 注意 ##
